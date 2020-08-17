@@ -9,4 +9,5 @@ public class WarmupDiff21 {
       return (n-21) *2;
     }
   }
+  
 }
