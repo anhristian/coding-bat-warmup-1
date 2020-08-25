@@ -1,0 +1,7 @@
+str, expected
+"Hello", true
+"Heelle", true
+"Heelele",false
+"Hll", false
+"e",true
+"", false
