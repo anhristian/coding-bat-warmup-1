@@ -1,0 +1,9 @@
+str, expected
+"code", "eodc"
+"a", "a"
+"ab", "ba"
+"abc", "cba"
+"", ""
+"Chocolate", "ehocolatC"
+"aavJ", "Java"
+"hello", "oellh"
