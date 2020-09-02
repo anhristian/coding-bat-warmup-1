@@ -1,0 +1,12 @@
+str, expected
+"adelbc", "abc"
+"adelHello", "aHello"
+"adedbc", "adedbc"
+"abcdel", "abcdel"
+"add", "add"
+"ad", "ad"
+"a", "a"
+"", ""
+"del", "del"
+"adel", "a"
+"aadelbb", "aadelbb"
