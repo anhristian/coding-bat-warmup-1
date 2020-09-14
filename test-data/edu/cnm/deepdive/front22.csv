@@ -1,0 +1,8 @@
+str, expected
+"kitten", "kikittenki"
+"Ha", "HaHaHa"
+"abc", "ababcab"
+"ab", "ababab"
+"a", "aaa"
+"", ""
+"Logic", "LoLogicLo"
