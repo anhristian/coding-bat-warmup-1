@@ -1,0 +1,8 @@
+str, expected
+"Java", "JavJavJav"
+"Chocolate", "ChoChoCho"
+"abc", "abcabcabc"
+"abcXYZ", "abcabcabc"
+"ab", "ababab"
+"a", "aaa"
+"", ""
